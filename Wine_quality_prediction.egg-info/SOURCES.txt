@@ -1,0 +1,6 @@
+setup.py
+Wine_quality_prediction.egg-info/PKG-INFO
+Wine_quality_prediction.egg-info/SOURCES.txt
+Wine_quality_prediction.egg-info/dependency_links.txt
+Wine_quality_prediction.egg-info/top_level.txt
+src/__init__.py
